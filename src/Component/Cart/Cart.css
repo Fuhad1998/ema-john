@@ -1,0 +1,8 @@
+.cart-total {
+  text-align: center;
+}
+.grand-total {
+  color: brown;
+  font-weight: 700;
+  border-top: 1px solid lightgray;
+}
